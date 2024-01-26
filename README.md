@@ -1,2 +1,3 @@
 # unregisteredhypercam2
-2005 youtube tutorials be like (dont forget the notepad window!)
+A copy of unregistered hypercam 2. For best installation, open up setup file in `Windows XP (Service Pack 3)` compatibility mode.  
+Have fun!
